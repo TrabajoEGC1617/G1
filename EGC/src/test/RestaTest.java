@@ -15,4 +15,5 @@ public class RestaTest {
 	public void restaRealTest(){
 		System.out.println(Resta.restaReal(10.2, 2.0));
 	}
+	
 }
