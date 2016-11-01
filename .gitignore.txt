@@ -1,0 +1,8 @@
+#No binario
+*.class
+/bin/
+/.settings/
+*.classpath
+*.project
+*.metadata
+*.metadara/*
