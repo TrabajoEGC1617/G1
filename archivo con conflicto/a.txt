@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+prueba para conflicto
+=======
+soy primero -> edit (conflicto) edit
+>>>>>>> b01
